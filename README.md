@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 
 ### ❤︎ my work? Consider supporting me with a coffee ☕ or an airdrop 🪂 — it’d mean the world! 😊
 - Solana address - 75q8yDLAJmxkNAbYbUwCRRAeKT3kDYMUfQEEA6exhKSi
-- [Via Github Sponsors](https://github.com/sponsors/448-OG)
 
 <!--
 **448-OG/448-OG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
